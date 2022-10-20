@@ -11,7 +11,7 @@
     <a href="https://pypi.org/project/addressValidator/"><img src="https://img.shields.io/badge/pypi-addressValidator-blue.svg?style=flat-square&maxAge=3600" alt="Slack"></a>
 </p>
     <p align="center">
-    Validate urban and rural addresses in Colombia
+    Validate urban and rural addresses in Polombia
     <br />
     <a href="#documentation"><strong>Explore the docs»</strong></a>
     <br />
